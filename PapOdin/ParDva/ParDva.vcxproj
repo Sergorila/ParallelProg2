@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7aac67df-078d-4b5a-b180-c05838206bb3}</ProjectGuid>
-    <RootNamespace>ParOdinDva</RootNamespace>
+    <ProjectGuid>{f00f1ba3-4173-48ac-89b7-966aefc51d40}</ProjectGuid>
+    <RootNamespace>ParDva</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -140,11 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="My_Task_A.cpp" />
-    <ClCompile Include="ParOdinDva.cpp" />
+    <ClCompile Include="..\..\..\..\Desktop\Задания-с-Исходниками\My_Task_A.cpp" />
+    <ClCompile Include="ParDva.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Задания-с-Исходниками\My_Task_A.h" />
+    <ClInclude Include="My_Task_A.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

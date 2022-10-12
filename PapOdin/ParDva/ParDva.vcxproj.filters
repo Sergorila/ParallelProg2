@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ParOdinDva.cpp">
+    <ClCompile Include="ParDva.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="My_Task_A.cpp">
+    <ClCompile Include="..\..\..\..\Desktop\Задания-с-Исходниками\My_Task_A.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Задания-с-Исходниками\My_Task_A.h">
+    <ClInclude Include="My_Task_A.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
