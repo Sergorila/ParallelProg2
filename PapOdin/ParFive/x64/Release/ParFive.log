@@ -1,0 +1,11 @@
+﻿  ParFive.cpp
+C:\Users\Sergey\Desktop\ParallelProg2\PapOdin\ParFive\ParFive.cpp(16,48): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=size_t
+          ]
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 609 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ParFive.vcxproj -> C:\Users\Sergey\Desktop\ParallelProg2\PapOdin\x64\Release\ParFive.exe

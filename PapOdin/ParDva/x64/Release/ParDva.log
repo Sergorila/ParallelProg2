@@ -1,7 +1,7 @@
 ﻿  ParDva.cpp
   Создание кода
-  9 of 520 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
-    8 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  513 of 520 functions (98.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  ParDva.vcxproj -> C:\Users\Sergey\source\repos\PapOdin\x64\Release\ParDva.exe
+  ParDva.vcxproj -> C:\Users\Sergey\Desktop\ParallelProg2\PapOdin\x64\Release\ParDva.exe

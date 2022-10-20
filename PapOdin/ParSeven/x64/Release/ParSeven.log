@@ -1,0 +1,8 @@
+﻿  Concurrent_Simps.cpp
+  ParSeven.cpp
+C:\Users\Sergey\Desktop\ParallelProg2\PapOdin\ParSeven\ParSeven.cpp(19,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 196 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ParSeven.vcxproj -> C:\Users\Sergey\Desktop\ParallelProg2\PapOdin\x64\Release\ParSeven.exe
